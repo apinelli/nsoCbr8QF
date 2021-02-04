@@ -1,6 +1,6 @@
 #!/bin/bash
 python3 -m venv .
-pip install configparser
 source bin/activate
+pip install configparser
 mkdir logs
 mkdir logs.old
