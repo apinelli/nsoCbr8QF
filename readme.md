@@ -1,8 +1,8 @@
 
-***This script is intended to run in NSO servers connected to CBR8 devices. It will look for queue
+This script is intended to run in NSO servers connected to CBR8 devices. It will look for queue
 stuck issues as described by CSCvw04657 and send e-mail alerts to authorized recipients, which allows faster service 
 recovery by running a workaround (SUP switchover).
-It is suggested to add the script to a crontab service.***
+It is suggested to add the script to a crontab service.
 
 Background info:
 ----------------
